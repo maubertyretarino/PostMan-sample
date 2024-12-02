@@ -1,0 +1,20 @@
+{
+  "companyName": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "position": "Manager",
+      "location": "San Francisco"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "position": "Developer",
+      "location": "New York"
+    },
+    {
+      "id": 3
+    }
+  ]
+}
